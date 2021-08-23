@@ -1,0 +1,20 @@
+{
+  "name": "com.mitay-walle.stick",
+  "version": "1.0.1",
+  "displayName": "Stick To Transform",
+  "description": "предоставляет возможность сцеплять объекты, независимо от расположения в иерархии",
+  "unity": "2018.4",
+  "unityRelease": "0b5",
+  "documentationUrl": "https://github.com/mitay-walle/Transform_stuff#readme",
+  "licensesUrl": "https://github.com/mitay-walle/Transform_stuff/blob/master/LICENSE",
+  "dependencies": { },
+ "keywords": [
+    "UI",
+    "Animation"
+  ],
+  "author": {
+    "name": "mitay-walle",
+    "email": "mitay-walle@mail.ru",
+    "url": "https://github.com/mitay-walle"
+  }
+}
